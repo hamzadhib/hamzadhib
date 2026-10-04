@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hamza Dhib 👋
 
-<!--
-**hamzadhib/hamzadhib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year computer science student, Tunisia.
 
-Here are some ideas to get you started:
+I'm currently learning software development and building my skills in programming, Git, databases, web development, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Git & GitHub
+- Programming fundamentals
+- Web development
+- Databases
+- Linux
+
+## Goals
+
+- Build real software projects
+- Develop strong programming fundamentals
+- Gain internship experience
+- Become a professional software developer
